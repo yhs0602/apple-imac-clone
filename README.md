@@ -1,1 +1,1 @@
-@nyanxyz 's seminar material
+[nyanxyz](https://github.com/nyanxyz) 's seminar material
